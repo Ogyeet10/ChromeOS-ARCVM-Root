@@ -12,7 +12,7 @@ RESET='\e[0m'
 BACKUP_PATH=/mnt/stateful_partition/arcvm_root
 KERNEL_PATH=/opt/google/vms/android
 
-KSU_VER='v3.0.0'
+KSU_VER='v2.1.2'
 KERNEL_VER='5.10.230'
 ARCH="$(arch)"
 
